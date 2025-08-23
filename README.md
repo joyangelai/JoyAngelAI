@@ -2,19 +2,16 @@
 
 ## 🚀 About Me  
 💡 Passionate about Technology, AI, and Data Science  
-🎓 Completed Python Fundamentals & Linux Server Administration courses
-🔍 Exploring Data Science, Machine Learning, and AI  
+🎓 Completed Data Science and Machine Learning
+🔍 Exploring Deep Learning frameworks using TensorFlow 
 
 ## 🛠️ Skills & Technologies  
 - Programming: Python, Bash  
-- Linux Administration: Server Management, Automation  
-- Data Science: Pandas, NumPy (learning)  
-- Machine Learning: Scikit-Learn, TensorFlow (learning)  
+- Linux Administration: Server Management
+- Data Analysis: Matplotlib, Seaborn 
+- Data Science: Pandas, NumPy 
+- Machine Learning: Scikit-Learn, TensorFlow  
 
-## 📂 Featured Projects  
-🔗 [Python ATM Simulator](https://github.com/joyangelai/ATM_Simulator) – A simple banking system simulation  
-🔗 [Linux Automation Scripts](#) – Managing servers efficiently (coming soon)  
-🔗 [Machine Learning Projects](#) – Exploring AI models (coming soon)  
 
 ## 🌍 Connect With Me  
 [LinkedIn](www.linkedin.com/in/joy-angel-tech2025) | [GitHub](https://github.com/JoyAngelAI)  
